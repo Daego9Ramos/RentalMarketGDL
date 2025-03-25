@@ -55,8 +55,14 @@ The dataset was created using web scraping techniques to extract property detail
 ├── data/                  # Raw and processed data
 ├── notebooks/             # Jupyter Notebooks for EDA and modeling
 ├── src/                   # Scripts for data processing and modeling
+├── paper/                 # Research paper
 ├── README.md              # Project documentation
 ```
+
+## Research Paper
+The full research paper detailing the methodology and findings can be found in the `paper/` directory:  
+**[Download Paper](paper/rental_market_analysis.pdf)**
+
 
 ## How to Run
 1. Clone the repository:
