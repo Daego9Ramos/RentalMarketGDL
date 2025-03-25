@@ -61,7 +61,7 @@ The dataset was created using web scraping techniques to extract property detail
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Daego9Ramos/RentalMarketGDL.git>
    ```
 2. Install dependencies:
    ```bash
