@@ -17,6 +17,7 @@ This project explores the rental housing market dynamics in the Guadalajara Metr
 
 ## Data Collection
 The dataset was created using web scraping techniques to extract property details from real estate websites, including:
+- Area
 - Location
 - Rental price
 - Number of bedrooms and bathrooms
