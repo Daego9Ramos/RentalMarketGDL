@@ -16,13 +16,14 @@ This project explores the rental housing market dynamics in the Guadalajara Metr
 - Enhance model performance through feature engineering.
 
 ## Data Collection
-The dataset was created using web scraping techniques to extract property details from real estate websites, including:
-- Area
-- Location
-- Rental price
-- Number of bedrooms and bathrooms
-- Property type (house/apartment)
-- Neighborhood and municipality
+The dataset was created using web scraping techniques to extract property details from real estate websites.
+
+Original Variables:
+- Location, Price, No. of rooms, No. of bathrooms, Area, Address, Colony, Type
+
+Final Variables (including engineered features):
+- Location, Price, No. of rooms, No. of bathrooms, Area, Neighborhood, Municipality, Type,
+Price per sq meter, Bathrooms per room, Price_Category
 
 ## Methodology
 1. **Web Scraping**: Extracted rental data from multiple websites.
