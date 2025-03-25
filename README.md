@@ -1,7 +1,7 @@
 # Rental Market Analysis in Guadalajara Metropolitan Area
 
 ## Overview
-This project explores the rental housing market dynamics in the Guadalajara Metropolitan Area using web scraping and machine learning techniques. The goal is to analyze rental pricing trends, identify key property attributes, and predict rental prices and listing durations.
+This project explores the rental housing market dynamics in the Guadalajara Metropolitan Area using web scraping and machine learning techniques. The goal is to analyze rental pricing trends, identify key property attributes, and predict rental prices.
 
 ## Authors
 - Cuauhtemoc Guerrero Ramírez
@@ -12,7 +12,7 @@ This project explores the rental housing market dynamics in the Guadalajara Metr
 - Collect rental data from real estate websites.
 - Perform exploratory data analysis (EDA) to clean and preprocess the data.
 - Identify key factors influencing rental prices.
-- Develop predictive models for rental price estimation and listing duration.
+- Develop predictive models for rental price estimation.
 - Enhance model performance through feature engineering.
 
 ## Data Collection
@@ -48,7 +48,6 @@ Final Variables (including engineered features):
 5. **Feature Engineering**: Encoded categorical data and derived new features.
 6. **Predictive Modeling**:
    - Regression models for rental price prediction.
-   - Time-series analysis for listing duration estimation.
 
 ## Tools & Technologies
 - **Python** for data processing and analysis.
