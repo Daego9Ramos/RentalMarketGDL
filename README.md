@@ -55,8 +55,7 @@ Final Variables (including engineered features):
 - **Pandas** and **NumPy** for data manipulation.
 - **Matplotlib** and **Seaborn** for data visualization.
 - **Scikit-learn** for machine learning models.
-- **BeautifulSoup** and **Requests** for web scraping.
-
+  
 ## Results
 - Identified significant features impacting rental pricing.
 - Developed predictive models for rental price estimation with improved accuracy.
